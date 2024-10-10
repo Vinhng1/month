@@ -1,0 +1,1 @@
+let question =  prompt("what is the ")
